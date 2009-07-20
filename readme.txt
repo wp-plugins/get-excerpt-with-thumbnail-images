@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: Sachethan G Reddy
 Donate link: http://creativeslab.net
-Tags: excerpts, thumbnails, post exerpts
+Tags: excerpts, thumbnails, post exerpts, thubmnail excerpt, excerpt with thumbnail
 Requires at least: 2.6
 Tested up to: 2.8.1
 
@@ -14,7 +14,7 @@ Inspite of having found numerous plugins to get excerpts along with thumbnail im
 
 Get Excerpts with Thumbnail plugin uses meta data of post, to retrieve thumbnail image. It also uses another plug-in named <a href="http://www.webspaceworks.com/resources/wordpress/44/">Cotent Extract</a> by <a href="http://www.webspaceworks.com">Rob Shumann</a>, to retrieve excerpt from POST. You need install Content Extract plugin before start working with this plugin.
 
-Full documentation of how to this plugin will be available at [Get Excerpt with Thumbnail]() page.
+Full documentation of how to this plugin will be available at [Get Excerpt with Thumbnail](http://creativeslab.net/get-excerpt-with-thumb/) page.
 == Installation ==
 Install <a href="http://www.webspaceworks.com/resources/wordpress/44/">Content Extract</a> by <a href="http://www.webspaceworks.com">Rob Shumann</a>, before installing this plugin.
 
@@ -26,11 +26,11 @@ The plugin is simple to install:
 4. Activate plugin
 5. Go to Settings -> Get Excerpt with Thumbnail page, to change configuration for the plug-in.
 
-Full documentation available at [Get Excerpt with Thumbnail]() page.
+Full documentation available at [Get Excerpt with Thumbnail](http://creativeslab.net/get-excerpt-with-thumb/) page.
 
 == Frequently Asked Questions ==
 
-For any queries regarding this plug-in comment me at [Get Excerpt with Thumbnail]() page.
+For any queries regarding this plug-in comment me at [Get Excerpt with Thumbnail](http://creativeslab.net/get-excerpt-with-thumb) page.
 
 == Screenshots ==
 
@@ -42,7 +42,7 @@ For any queries regarding this plug-in comment me at [Get Excerpt with Thumbnail
 
 == Documentation ==
 
-Full documentation available at [Get Excerpt with Thumbnail]() page.
+Full documentation available at [Get Excerpt with Thumbnail](http://creativeslab.net/get-excerpt-with-thumb) page.
 
 == Settings ==
 
