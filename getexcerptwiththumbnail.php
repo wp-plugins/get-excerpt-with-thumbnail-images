@@ -34,7 +34,7 @@ function getExcerptsWithThumbnail(){
 		$cutLen = get_option("ex_th_cut_length");
 		$postLen = get_option("ex_th_post_length");
 		$imgCssClass = get_option("ex_th_img_css_class");
-	$excerpt = wswwpx_content_extract($moreLink, $postLen, $cutLen);
+	$excerpt = wswwpx_content_extract($moreText, $postLen, $cutLen);
 	
 	$query = "SELECT wpm.post_id, wpm.meta_value, wp.guid, wp2.post_title FROM " . $wpdb->prefix."postmeta wpm, " . $wpdb->prefix."posts wp, " . $wpdb->prefix."posts wp2  WHERE wpm.post_id IN (SELECT ID FROM " . $wpdb->prefix."posts WHERE post_parent = wp2.id and post_type like 'attachment') and wpm.meta_key like '_wp_attachment_metadata' and wp.id = wpm.post_id and wp2.id = " . $id;
 
